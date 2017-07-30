@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">room with unit test in kotlin</string>
+
+    <string name="foodList">Food List</string>
+</resources>
